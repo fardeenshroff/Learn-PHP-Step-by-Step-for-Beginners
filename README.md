@@ -28,8 +28,6 @@ Learn about PHP, its role in modern web development, and its benefits as a serve
 - [Key Features of PHP](https://www.tutorialspoint.com/php/php_overview.htm)
 - [How PHP Works](https://www.geeksforgeeks.org/introduction-to-php/)
 
-### Downloads
-[Download Chapter 1: Introduction to PHP](#)
 
 ### Exercise:
 Write a PHP script to print "Hello, World!" on the screen. [Learn More](https://www.tutorialspoint.com/php/php_syntax.htm)
@@ -47,8 +45,6 @@ Set up a local development environment to run PHP scripts efficiently. Learn how
 - [Configuring PHP.ini](https://www.php.net/manual/en/configuration.file.php)
 - [Running Your First PHP Script](https://www.geeksforgeeks.org/php-hello-world/)
 
-### Downloads
-[Download Chapter 2: Setting Up Your Environment](#)
 
 ### Environment Setup Instructions
 - **Windows:** Follow [this guide](https://www.php.net/manual/en/install.windows.php) to set up PHP.
@@ -71,8 +67,6 @@ Explore the fundamentals of PHP programming, including syntax, variables, data t
 - [Operators in PHP](https://www.tutorialspoint.com/php/php_operators.htm)
 - [Control Structures: if, else, loops](https://www.php.net/manual/en/control-structures.php)
 
-### Downloads
-[Download Chapter 3: PHP Basics](#)
 
 ### Exercise:
 Create a PHP script that calculates and outputs the factorial of a given number.
@@ -90,8 +84,6 @@ Learn how to build forms, handle user inputs securely, and validate data.
 - [Validating Form Data](https://www.php.net/manual/en/filter.filters.validate.php)
 - [Preventing XSS (Cross-Site Scripting)](https://owasp.org/www-community/attacks/xss/)
 
-### Downloads
-[Download Chapter 4: Working with Forms and User Input](#)
 
 ### Exercise:
 Create a PHP script to validate user input from a contact form.
@@ -109,8 +101,6 @@ Understand how to connect PHP with databases like MySQL to store and retrieve da
 - [Prepared Statements](https://www.w3schools.com/php/php_mysql_prepared_statements.asp)
 - [Database Error Handling](https://www.php.net/manual/en/mysqli.error.php)
 
-### Downloads
-[Download Chapter 5: Working with Databases](#)
 
 ### Exercise:
 Write a PHP script to insert, display, update, and delete records in a MySQL table.
@@ -128,8 +118,6 @@ Learn how to manage errors and exceptions in PHP to create robust and reliable a
 - [Custom Exception Handling](https://www.geeksforgeeks.org/exception-handling-in-php/)
 - [Logging Errors](https://www.php.net/manual/en/function.error-log.php)
 
-### Downloads
-[Download Chapter 6: Error and Exception Handling](#)
 
 ### Exercise:
 Create a PHP script to handle file read errors gracefully.
@@ -147,8 +135,6 @@ Work with files in PHP to read, write, and manipulate file content.
 - [File Uploads](https://www.php.net/manual/en/features.file-upload.php)
 - [Handling Errors with File Operations](https://www.php.net/manual/en/ref.filesystem.php)
 
-### Downloads
-[Download Chapter 7: File Handling](#)
 
 ### Exercise:
 Write a PHP script to upload an image and display it on the browser.
@@ -165,8 +151,6 @@ Manage user sessions and cookies to maintain state in web applications.
 - [Working with Cookies](https://www.php.net/manual/en/function.setcookie.php)
 - [Session Security Best Practices](https://owasp.org/www-project-cheat-sheets/cheatsheets/Session_Management_Cheat_Sheet.html)
 
-### Downloads
-[Download Chapter 8: Sessions and Cookies](#)
 
 ### Exercise:
 Create a PHP login system using sessions and cookies.
@@ -184,8 +168,6 @@ Leverage PHP's object-oriented features to write modular, reusable code.
 - [Abstraction and Encapsulation](https://www.php.net/manual/en/language.oop5.visibility.php)
 - [Using Traits](https://www.php.net/manual/en/language.oop5.traits.php)
 
-### Downloads
-[Download Chapter 9: OOP in PHP](#)
 
 ### Exercise:
 Create a class hierarchy for an e-commerce system (Product, Order, Customer).
@@ -203,8 +185,6 @@ Explore popular PHP frameworks to streamline development and maintain scalable a
 - [Zend Framework](https://framework.zend.com/)
 - [MVC Architecture in PHP](https://www.geeksforgeeks.org/mvc-design-pattern/)
 
-### Downloads
-[Download Chapter 10: Using PHP Frameworks](#)
 
 ### Exercise:
 Build a simple blog application using Laravel.
@@ -222,3 +202,16 @@ This repository is licensed under the [MIT License](LICENSE). See the LICENSE fi
 ---
 
 Happy Coding! 🚀
+
+---
+
+## Disclaimer
+
+The programming languages, resources, downloads, and links provided in this repository are the property of their respective owners, creators, and contributors. This repository is intended solely for educational purposes to help learners gain an understanding of each language, how to download and install the required tools, and how to start programming effectively.
+
+The content shared is purely for learning and informational purposes and is not intended to infringe on any copyrights or intellectual property rights. If you are the rightful owner of any resource or content and wish to have it removed, please contact me directly, and I will promptly take the necessary actions to comply with your request.
+
+All credit for the resources, libraries, and tools mentioned in this repository belongs to their respective authors.
+
+
+---
